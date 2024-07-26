@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "nome": "User 01",
+      "email": "user01@qa.com.br",
+      "password": "teste1",
+      "administrador": "true"
+    },
+    {
+      "nome": "User 02",
+      "email": "user02@qa.com.br",
+      "password": "teste2",
+      "administrador": "false"
+    }
+  ]
+}
