@@ -1,6 +1,6 @@
 [![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
 
-# Automação de Testes - ServeRest API
+# Automação de Testes - ServeRest API (em construção)
 
 ## Descrição
 Este repositório contém alguns cenários de automação de testes da API SERVEREST: https://github.com/ServeRest/ServeRest/
