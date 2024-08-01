@@ -1,0 +1,15 @@
+{
+  "produto_default": {
+    "nome": "Logitech MX Vertical",
+    "preco": 470,
+    "descricao": "Mouse",
+    "quantidade": ""
+  },
+  
+  "produto_teste": {
+    "nome": "Produto Teste Verdeiros",
+    "preco": 999,
+    "descricao": "Descrição Teste Verdeiros",
+    "quantidade": 999
+  }
+}
